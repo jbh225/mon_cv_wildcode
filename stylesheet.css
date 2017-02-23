@@ -1,0 +1,93 @@
+body{
+		background-color: rgb(104, 187, 285);
+		font-family: Arial
+	}
+a {
+	text-decoration: none;
+	color: yellow;
+} 
+#header{
+ 
+    text-align: center;
+    border:2px solid #000000; 
+    margin: 10px;
+    	 }
+img{
+	min-height: 100px;
+}
+#container{
+	border: 1px solid #000000;
+	margin: 10px;
+	height: 980px;
+}
+
+#left-box{
+	background-color: rgb(9, 30, 45);
+	border: 1px solid #000000;
+	float: left;
+	height: 92%;
+    width: 25%;
+	margin: 10 10 10px 10px;
+	color: white;
+	padding: 10px;
+
+		}
+#right-box {
+    background-color: rgb(9,30,45);
+    float: right;
+    height: auto;
+    width: 70%;
+    margin: 10 10 10px 10px;
+    padding: 10px;
+}
+
+#experiences-box{
+    border: 1px solid #000000;
+    margin: 10px;
+    background-color: white;
+    height: auto;
+    width: 95%;
+    text-align: center;
+    color: rgb(9,30,45);
+}
+.experience {
+    border: 1px solid #000000;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+    
+}
+#studies-box{
+    border: 1px solid #000000;
+    margin: 10px;
+    background-color: white;
+    height: auto;
+    width: 95%;
+    text-align: center;
+    color: rgb(9,30,45);
+}
+.study {
+    border: 1px solid #000000;
+    margin: 10px 10px 10px 10px;
+    padding: 10;
+    background-color: rgb(9,30,45);
+    height: 25%;
+    width: 95%;
+    text-align: justify;
+    color: white; 
+    
+}
+#footer{
+    width: auto;
+    min-height:20px;
+    text-align: center;
+    border:1px solid #000000; 
+    background-color: rgb(107,194,234);
+    margin: 10px;
+ 
+    color: rgb(9,30,45);
+}
